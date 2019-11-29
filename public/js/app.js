@@ -49592,8 +49592,13 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+<<<<<<< HEAD
 __webpack_require__(/*! D:\Web Dev 1903\coza-store\resources\js\app.js */"./resources/js/app.js");
 module.exports = __webpack_require__(/*! D:\Web Dev 1903\coza-store\resources\sass\app.scss */"./resources/sass/app.scss");
+=======
+__webpack_require__(/*! G:\Laravel Projects\E-commerece\coza-store\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! G:\Laravel Projects\E-commerece\coza-store\resources\sass\app.scss */"./resources/sass/app.scss");
+>>>>>>> 2537820be36ff204e8857e36be9e4257c49c68fe
 
 
 /***/ })
